@@ -1,6 +1,7 @@
 #include<stdio.h>
-main()
+  main()
  {
       printf("Welcome :");
+      printf("\n Spaek institute ");
  }
  
